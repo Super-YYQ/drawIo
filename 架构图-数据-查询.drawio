@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T02:47:29.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Cg-TKLGrGpgAOEd7pmkq" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T02:48:14.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GgoeN2fNHhLuo0yzP58y" version="23.1.5" type="github">
   <diagram name="第 1 页" id="S-6OjkVsCnSg2azHZJY5">
-    <mxGraphModel dx="1434" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,6 +131,9 @@
         </mxCell>
         <mxCell id="sjRXnx2SvlVrv_pFDzfb-6" value="停止递归条件&lt;br&gt;1、生效任职的主管字段上不存在改员工&lt;br&gt;2、员工主管的生效任职是兼职&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
           <mxGeometry x="490" y="600" width="270" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="sjRXnx2SvlVrv_pFDzfb-7" value="架构图数据查询" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=30;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="20" width="830" height="1020" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
