@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T01:46:15.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9s9zunVCdltVTc5W4au6" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T01:51:03.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="N51VDydcpECe_Z_miLX_" version="23.1.7" type="github">
   <diagram name="第 1 页" id="xC-Atdz4C-rr-IP7mlRO">
     <mxGraphModel dx="1434" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,66 @@
         </mxCell>
         <mxCell id="zptNQhb46XWGfKYpRa3a-35" value="提交&lt;br&gt;走组织A审批流" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="110" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zptNQhb46XWGfKYpRa3a-38" target="zptNQhb46XWGfKYpRa3a-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-38" value="个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zptNQhb46XWGfKYpRa3a-40" target="zptNQhb46XWGfKYpRa3a-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-40" value="配置审批流的&lt;br&gt;子集编辑&lt;br&gt;（组织A）" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="790" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-41" value="变更单数据&lt;br&gt;（组织A）" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-42" value="保存至变更单" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zptNQhb46XWGfKYpRa3a-40" target="zptNQhb46XWGfKYpRa3a-41">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1020" y="270" as="sourcePoint" />
+            <mxPoint x="1180" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zptNQhb46XWGfKYpRa3a-44" target="zptNQhb46XWGfKYpRa3a-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-44" value="员工离职后返聘&lt;br&gt;（组织B）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="790" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zptNQhb46XWGfKYpRa3a-46" target="zptNQhb46XWGfKYpRa3a-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-46" value="个人信息编辑" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="790" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-50" value="提交&lt;br&gt;走组织B审批流" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="790" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-51" value="删除该员工所有未提交变更单数据" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-55" value="变更单数据&lt;br&gt;（组织B）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zptNQhb46XWGfKYpRa3a-61" target="zptNQhb46XWGfKYpRa3a-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-61" value="提交前&lt;br&gt;同步员工信息中组织部门数据" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="790" y="628" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-64" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zptNQhb46XWGfKYpRa3a-44" target="zptNQhb46XWGfKYpRa3a-51">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1050" y="580" as="sourcePoint" />
+            <mxPoint x="1150" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zptNQhb46XWGfKYpRa3a-65" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="910" y="549.5" as="sourcePoint" />
+            <mxPoint x="1200" y="549.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
