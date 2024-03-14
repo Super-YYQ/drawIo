@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T06:35:04.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wP_lMfp_tiEweA3CcvS-" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T01:41:06.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="X-Y-RyaHwisEKaO2H-dk" version="24.0.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2260" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="fzxfV_ZsvZzJaxYf5mK8-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="395" y="150" width="10" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="fzxfV_ZsvZzJaxYf5mK8-17" value="2、查询ui模板数据&lt;br&gt;（优先查询租户下、&lt;br&gt;没有则查询0租户）" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="fzxfV_ZsvZzJaxYf5mK8-16" edge="1">
+        <mxCell id="fzxfV_ZsvZzJaxYf5mK8-17" value="2、查询显示信息配置&lt;br&gt;（优先查询租户-用户下、&lt;br&gt;没有则查询0租户）" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="fzxfV_ZsvZzJaxYf5mK8-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="245" y="155" as="sourcePoint" />
             <mxPoint as="offset" />
