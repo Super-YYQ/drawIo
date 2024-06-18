@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T01:33:54.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_2rg0LC4xlgrgTNLKqUm" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T01:34:30.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kKUkzu1hnBL5Hm2bZCQa" version="24.5.4" type="github">
   <diagram name="第 1 页" id="8z0OwSUnoLn5wmkjWjVZ">
     <mxGraphModel dx="2261" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,6 +29,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="160" as="sourcePoint" />
             <mxPoint x="440" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvNnwEYfheQ7t3sPF90q-40" value="继承父类特征组" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gvNnwEYfheQ7t3sPF90q-9">
+          <mxGeometry x="0.1412" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gvNnwEYfheQ7t3sPF90q-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
