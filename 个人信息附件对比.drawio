@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T06:01:10.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.5.4" etag="BkWZsW5Rjsvxnuuv09qP" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T06:56:26.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RGLt0Xq1rIVCRx2ho0pb" version="24.6.4" type="github">
   <diagram name="第 1 页" id="X_QVaZMdNctDWSnfwhRW">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TsVamZSk_vUPs96y5KFI-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="385" width="680" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="80" width="680" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-22" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-size: 13px; font-weight: 400; text-align: left; text-wrap: nowrap; background-color: rgb(243, 244, 246);&quot;&gt;attachIdList&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: rgb(255, 255, 255); text-wrap: nowrap; font-weight: 400; font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; color: rgb(51, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;附件id串&lt;span style=&quot;text-align: left; background-color: rgb(243, 244, 246);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-25" value="1111111111，2222222222，333333333，&lt;font color=&quot;#ff8080&quot; style=&quot;font-size: 20px;&quot;&gt;444444444&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TsVamZSk_vUPs96y5KFI-22">
+          <mxGeometry x="-10" y="65" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-23" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-size: 13px; font-weight: 400; text-align: left; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;newAttachment&lt;br&gt;&lt;/span&gt;学历附件" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-26" value="jdhalfhkh5jwgrkjhwqektje" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TsVamZSk_vUPs96y5KFI-23">
+          <mxGeometry x="20" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.985;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="TsVamZSk_vUPs96y5KFI-23" target="TsVamZSk_vUPs96y5KFI-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="200" as="sourcePoint" />
+            <mxPoint x="-70" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-29" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;1111111111，2222222222，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;333333333,444444444&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="300" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-34" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-size: 13px; font-weight: 400; text-align: left; text-wrap: nowrap; background-color: rgb(243, 244, 246);&quot;&gt;attachIdList&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: rgb(255, 255, 255); text-wrap: nowrap; font-weight: 400; font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; color: rgb(51, 51, 51);&quot;&gt;&lt;br&gt;&lt;/span&gt;附件id串&lt;span style=&quot;text-align: left; background-color: rgb(243, 244, 246);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="290" y="425" width="345" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-35" value="1111111111，2222222222，333333333，&lt;b&gt;&lt;font color=&quot;#44df26&quot; style=&quot;font-size: 20px;&quot;&gt;55555555&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TsVamZSk_vUPs96y5KFI-34">
+          <mxGeometry y="65" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-36" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-size: 13px; font-weight: 400; text-align: left; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;newAttachment&lt;br&gt;&lt;/span&gt;学历附件" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="425" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-37" value="jdhalfhkh5jwgrkjhwqektje" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TsVamZSk_vUPs96y5KFI-36">
+          <mxGeometry x="20" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.98;entryY=0.681;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="TsVamZSk_vUPs96y5KFI-36" target="TsVamZSk_vUPs96y5KFI-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="500" as="sourcePoint" />
+            <mxPoint x="-60" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-41" value="个人信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-42" value="变更单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.396;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.396;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TsVamZSk_vUPs96y5KFI-39" target="TsVamZSk_vUPs96y5KFI-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="290" as="sourcePoint" />
+            <mxPoint x="310" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TsVamZSk_vUPs96y5KFI-44" value="审批流变更" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
