@@ -1,9 +1,159 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="TP6duMjD6jD-vEjOBPa7">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="736" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-1" target="ioWnOrtHQaxdAY9Hsreb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-1" value="保存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-2" target="ioWnOrtHQaxdAY9Hsreb-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-2" value="查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-5" target="ioWnOrtHQaxdAY9Hsreb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-5" value="是否开启审批流" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-10" target="ioWnOrtHQaxdAY9Hsreb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-10" value="是否国际化子集" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-12" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="428" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-13" target="ioWnOrtHQaxdAY9Hsreb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-13" value="判断数据状态" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="110" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-15" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="578" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-16" value="写死这几个子集的配置，遇到之后单独走国际化的变更保存逻辑" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="458" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-17" value="&lt;div&gt;判断是否员工整个子集的第一条新增，是则状态为新增，都则状态都为更新&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="650" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-18" target="ioWnOrtHQaxdAY9Hsreb-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-18" value="跳过原有变更单的数据合并" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="110" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-20" value="变更单入库当前生效日期的唯一一条数据" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-22" target="ioWnOrtHQaxdAY9Hsreb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-22" value="是否存在审批流" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-27" target="ioWnOrtHQaxdAY9Hsreb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-27" value="根据查询子集构建查询懒加载入参" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-29" target="ioWnOrtHQaxdAY9Hsreb-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-29" value="多线程同时查询员工和变更单数据" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="370" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-31" target="ioWnOrtHQaxdAY9Hsreb-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-31" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;是否国际化子集&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-33" target="ioWnOrtHQaxdAY9Hsreb-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-33" value="数据过滤&lt;div&gt;生效日期数据匹配&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="370" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-35" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="858" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-36" value="强制匹配id&lt;div&gt;返回更新状态的数据结构&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-38" value="j根据变更单中的唯一一条数据的生效日期，在员工信息的时间轴数据中，回溯查询上一条生效数据，其他舍弃" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="930" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-39" value="2024-11-01" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="990" y="538" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-40" value="2024-06-05" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="990" y="872" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-41" value="2024-10-04" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="990" y="619.5" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="1010" as="sourcePoint" />
+            <mxPoint x="1110" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-44" value="2024-01-01" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="990" y="951" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-45" value="2024-08-08" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="799" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-46" value="员工信息时间轴" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="458" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-47" value="变更单数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-40" target="ioWnOrtHQaxdAY9Hsreb-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="936" as="sourcePoint" />
+            <mxPoint x="1480" y="891" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ioWnOrtHQaxdAY9Hsreb-45" target="ioWnOrtHQaxdAY9Hsreb-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1264" y="816" as="sourcePoint" />
+            <mxPoint x="1480" y="818" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-52" value="2024-08-08" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="799" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-53" value="2024-06-05" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="872" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-55" value="新增数据伪造成更新对比效果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="756" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-57" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ioWnOrtHQaxdAY9Hsreb-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="640" as="sourcePoint" />
+            <mxPoint x="1350" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ioWnOrtHQaxdAY9Hsreb-58" value="当时间走过下一个生效日期数据时&lt;div&gt;1、个人信息页面仍然展示变更对比数据&lt;/div&gt;&lt;div&gt;2、同时返回一个特殊标识，在前端增加提示说明审批中数据就算通过也已经废弃了&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="608" width="310" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
