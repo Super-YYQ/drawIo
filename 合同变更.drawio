@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="第 1 页" id="DPSyQwWOgaOE_y3GqYlp">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-1" target="ugEGjnZIFQsKq-Si5FoI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-1" value="调动办理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-4" target="ugEGjnZIFQsKq-Si5FoI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-4" value="审批流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-6" target="ugEGjnZIFQsKq-Si5FoI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-6" target="ugEGjnZIFQsKq-Si5FoI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-6" value="是否立即生效" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-8" value="员工信息" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="940" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-10" target="ugEGjnZIFQsKq-Si5FoI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-10" value="合同变更" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-12" target="ugEGjnZIFQsKq-Si5FoI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-12" value="审批流" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="320" width="97" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-14" target="ugEGjnZIFQsKq-Si5FoI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-14" target="ugEGjnZIFQsKq-Si5FoI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-14" value="调动单是否生效" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-6" target="ugEGjnZIFQsKq-Si5FoI-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="530" as="sourcePoint" />
+            <mxPoint x="840" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-18" value="调动单已生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="248" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-19" value="审批通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="865" y="338" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-20" value="发起" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="338" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-25" value="不回写员工&lt;br&gt;等待" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-27" value="调动后立即生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="158" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-28" value="不立即生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="248" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-29" value="合同续签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
