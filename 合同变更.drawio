@@ -31,6 +31,9 @@
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-10" target="ugEGjnZIFQsKq-Si5FoI-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-10" target="ugEGjnZIFQsKq-Si5FoI-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-10" value="合同变更" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -49,8 +52,8 @@
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-14" value="调动单是否生效" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ugEGjnZIFQsKq-Si5FoI-18" value="调动单已生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="990" y="248" width="100" height="30" as="geometry" />
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-18" value="调动单已生效且未作废" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="248" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-19" value="审批通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="865" y="338" width="70" height="30" as="geometry" />
@@ -58,8 +61,8 @@
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-20" value="发起" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="338" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ugEGjnZIFQsKq-Si5FoI-25" value="不回写员工&lt;br&gt;等待" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="300" width="80" height="80" as="geometry" />
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-25" value="不回写员工&lt;br&gt;监听调动生效事件" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-27" value="调动后立即生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="695" y="158" width="110" height="30" as="geometry" />
@@ -67,8 +70,25 @@
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-28" value="不立即生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="248" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-29" target="ugEGjnZIFQsKq-Si5FoI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-29" value="合同续签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="537.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-33" target="ugEGjnZIFQsKq-Si5FoI-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-33" value="调度任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="547.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="567.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-36" value="校验合同变更中是否存在待生效且调动办理未废弃的数据" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="515" width="340" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
