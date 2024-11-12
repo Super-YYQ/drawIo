@@ -40,10 +40,10 @@
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-12" value="审批流" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="320" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ugEGjnZIFQsKq-Si5FoI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-14" target="ugEGjnZIFQsKq-Si5FoI-8">
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=#bb3e3e;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-14" target="ugEGjnZIFQsKq-Si5FoI-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ugEGjnZIFQsKq-Si5FoI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-14" target="ugEGjnZIFQsKq-Si5FoI-25">
+        <mxCell id="ugEGjnZIFQsKq-Si5FoI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#d13d3d;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-14" target="ugEGjnZIFQsKq-Si5FoI-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-14" value="调动单是否生效" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
