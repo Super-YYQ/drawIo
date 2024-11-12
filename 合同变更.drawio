@@ -49,12 +49,6 @@
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-14" value="调动单是否生效" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ugEGjnZIFQsKq-Si5FoI-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="ugEGjnZIFQsKq-Si5FoI-6" target="ugEGjnZIFQsKq-Si5FoI-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="530" as="sourcePoint" />
-            <mxPoint x="840" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-18" value="调动单已生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="990" y="248" width="100" height="30" as="geometry" />
         </mxCell>
@@ -65,7 +59,7 @@
           <mxGeometry x="650" y="338" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-25" value="不回写员工&lt;br&gt;等待" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="1170" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ugEGjnZIFQsKq-Si5FoI-27" value="调动后立即生效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="695" y="158" width="110" height="30" as="geometry" />
