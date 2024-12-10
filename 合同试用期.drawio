@@ -25,7 +25,7 @@
           <mxGeometry x="660" y="480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-11" value="终审通过回写员工信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="430" y="480" width="180" height="30" as="geometry" />
+          <mxGeometry x="360" y="510" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-13" value="生成合同、试用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="640" y="700" width="200" height="60" as="geometry" />
@@ -55,10 +55,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-20" value="合同服务终审回写之前拼装合同、试用子集数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="370" y="350" width="360" height="30" as="geometry" />
+          <mxGeometry x="390" y="370" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-21" value="合同服务终审只传合同数据，试用由员工信息生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="780" y="550" width="380" height="30" as="geometry" />
+          <mxGeometry x="780" y="540" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-23" value="合同服务约定试用时校验相同合同主体场景，提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="585" width="380" height="30" as="geometry" />
