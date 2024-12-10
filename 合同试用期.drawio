@@ -139,12 +139,12 @@
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="1320" as="sourcePoint" />
+            <mxPoint x="730" y="1240" as="sourcePoint" />
             <mxPoint x="200" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-75" value="提示只需要走到这里就可以了，存在过就提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="681" y="1259" width="360" height="30" as="geometry" />
+          <mxGeometry x="670" y="1250" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-76" target="fa7i-DDVDkkYTf1QSpwB-80">
           <mxGeometry relative="1" as="geometry" />
