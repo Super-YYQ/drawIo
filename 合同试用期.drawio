@@ -126,7 +126,7 @@
           <mxGeometry y="980" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-70" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;存在试用时有两种场景：&lt;br&gt;1、合同主体A--B--A，此时需要新增试用&lt;br&gt;2、合同主体A------A，此时需要更新试用&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1620" width="410" height="170" as="geometry" />
+          <mxGeometry x="210" y="1620" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-71" target="fa7i-DDVDkkYTf1QSpwB-76">
           <mxGeometry relative="1" as="geometry" />
@@ -171,8 +171,8 @@
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-89" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="160" y="2140" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-90" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;这里结束上一条，怎么知道上一条是那个&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="2249" width="340" height="130" as="geometry" />
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-90" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;br&gt;这里结束上一条，怎么知道上一条是那个&lt;br&gt;还是说不需要考虑，因为标品之前已经处理过了&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2249" width="380" height="191" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
