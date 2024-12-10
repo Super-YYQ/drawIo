@@ -69,7 +69,7 @@
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-24" target="fa7i-DDVDkkYTf1QSpwB-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-24" value="约定试用校验" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-24" value="合同回写试用" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="90" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-31" target="fa7i-DDVDkkYTf1QSpwB-35">
