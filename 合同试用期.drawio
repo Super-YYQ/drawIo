@@ -126,7 +126,7 @@
           <mxGeometry y="980" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-70" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;存在试用时有两种场景：&lt;br&gt;1、合同主体A--B--A，此时需要新增试用&lt;br&gt;2、合同主体A------A，此时需要更新试用&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1620" width="420" height="190" as="geometry" />
+          <mxGeometry x="210" y="1620" width="430" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-71" target="fa7i-DDVDkkYTf1QSpwB-76">
           <mxGeometry relative="1" as="geometry" />
@@ -159,20 +159,20 @@
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-76" value="变更前后合同主体是否不同" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="90" y="1990" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-80" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;客开逻辑&lt;br style=&quot;font-size: 19px;&quot;&gt;更新试用&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="736" y="1999" width="130" height="60" as="geometry" />
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-80" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;客开逻辑&lt;br style=&quot;font-size: 19px;&quot;&gt;更新上一条试用&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1999" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-83" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="230" y="1980" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-86" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;客开逻辑&lt;br style=&quot;font-size: 19px;&quot;&gt;新增试用且结束上一条&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="683.5" y="2179" width="235" height="60" as="geometry" />
+          <mxGeometry x="533.5" y="2179" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-89" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="160" y="2140" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-90" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;br&gt;这里结束上一条，怎么知道上一条是那个&lt;br&gt;还是说不需要考虑，因为标品之前已经处理过了&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="2249" width="380" height="191" as="geometry" />
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-90" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;这里更新或者结束上一条&lt;br style=&quot;font-size: 21px;&quot;&gt;怎么知道上一条是哪个&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=21;flipV=0;direction=east;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" y="1999" width="380" height="149" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
