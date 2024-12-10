@@ -84,6 +84,9 @@
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-35" target="fa7i-DDVDkkYTf1QSpwB-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-35" target="fa7i-DDVDkkYTf1QSpwB-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-35" value="是否存在试用" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;rounded=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="1450" width="80" height="80" as="geometry" />
         </mxCell>
@@ -123,7 +126,13 @@
           <mxGeometry y="980" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-70" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;存在试用时有两种场景：&lt;br&gt;1、合同主体A--B--A，此时需要新增试用&lt;br&gt;2、合同主体A------A，此时需要更新试用&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1561" width="410" height="170" as="geometry" />
+          <mxGeometry x="210" y="1550" width="410" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-71" value="判断变更前后合同主体是否发生了变化" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#eeeeee;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1760" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-73" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1590" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
