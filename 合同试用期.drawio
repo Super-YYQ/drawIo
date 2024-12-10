@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="HcmKmf9M_egDgi08nJnF">
-    <mxGraphModel dx="2261" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,6 +62,68 @@
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-23" value="合同服务约定试用时校验相同合同主体场景，提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="585" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-24" target="fa7i-DDVDkkYTf1QSpwB-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-24" target="fa7i-DDVDkkYTf1QSpwB-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-24" value="约定试用校验" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="90" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-31" target="fa7i-DDVDkkYTf1QSpwB-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-31" target="fa7i-DDVDkkYTf1QSpwB-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-31" value="查询合同主体下是否存在试用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1300" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-35" target="fa7i-DDVDkkYTf1QSpwB-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-35" value="是否存在试用" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;rounded=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-42" value="合同子集：：试用信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1300" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-51" target="fa7i-DDVDkkYTf1QSpwB-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="1240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-51" target="fa7i-DDVDkkYTf1QSpwB-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-51" value="是否存在过&lt;br&gt;相同合同主体" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1110" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-54" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1230" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-56" value="走标品回写逻辑&lt;br&gt;新增试用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="905" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-58" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-62" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;走标品回写逻辑&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;新增试用&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="1460" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-64" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-66" target="fa7i-DDVDkkYTf1QSpwB-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-66" value="查询员工是否存在&lt;br&gt;相同合同主体（变更后）下合同" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry y="980" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-70" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;存在试用时有两种场景：&lt;br&gt;1、合同主体A--B--A，此时需要新增试用&lt;br&gt;2、合同主体A------A，此时需要更新试用&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1561" width="410" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
