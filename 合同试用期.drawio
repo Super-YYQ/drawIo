@@ -122,7 +122,7 @@
           <mxGeometry y="1350" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-70" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;存在试用时有两种场景：&lt;br&gt;1、合同主体A--B--A，此时需要新增试用&lt;br&gt;2、合同主体A------A，此时需要更新试用&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="2100" width="430" height="160" as="geometry" />
+          <mxGeometry x="240" y="2100" width="430" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-71" target="fa7i-DDVDkkYTf1QSpwB-76">
           <mxGeometry relative="1" as="geometry" />
