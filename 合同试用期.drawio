@@ -84,7 +84,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-35" value="是否存在试用" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;rounded=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="2000" width="80" height="80" as="geometry" />
+          <mxGeometry x="106" y="2000" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-42" value="合同子集：：试用信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="410" y="1690" width="250" height="60" as="geometry" />
@@ -152,7 +152,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-76" value="变更前后合同主体是否不同" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-76" value="变更前后合同主体是否不同" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="90" y="2470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;走标品回写逻辑&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;更新试用&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
