@@ -15,6 +15,11 @@
             <mxPoint x="670" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-2" target="fa7i-DDVDkkYTf1QSpwB-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="760.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-2" value="约定试用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="150" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,26 +47,17 @@
             <mxPoint x="150" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="260" as="sourcePoint" />
-            <mxPoint x="410" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1020" y="460" as="sourcePoint" />
-            <mxPoint x="760" y="640" as="targetPoint" />
+            <mxPoint x="680" y="910" as="sourcePoint" />
+            <mxPoint x="320" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-20" value="合同服务终审回写之前拼装合同、试用子集数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="390" y="370" width="360" height="30" as="geometry" />
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-21" value="合同服务终审只传合同数据，试用由员工信息生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="760" y="535" width="420" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-21" value="合同服务终审只传合同数据，试用由员工信息生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="780" y="540" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-23" value="合同服务约定试用时校验相同合同主体场景，提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="110" y="585" width="380" height="30" as="geometry" />
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-23" value="合同服务约定试用时校验相同合同主体场景，提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="580" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-24" target="fa7i-DDVDkkYTf1QSpwB-51">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-24" value="合同回写试用" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="90" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="1190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-31" target="fa7i-DDVDkkYTf1QSpwB-35">
           <mxGeometry relative="1" as="geometry" />
@@ -79,7 +75,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-31" value="查询合同主体下是否存在试用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1370" width="260" height="60" as="geometry" />
+          <mxGeometry x="20" y="1690" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-35" target="fa7i-DDVDkkYTf1QSpwB-62">
           <mxGeometry relative="1" as="geometry" />
@@ -88,63 +84,63 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-35" value="是否存在试用" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;rounded=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1630" width="80" height="80" as="geometry" />
+          <mxGeometry x="110" y="2000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-42" value="合同子集：：试用信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1370" width="250" height="60" as="geometry" />
+          <mxGeometry x="410" y="1690" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-51" target="fa7i-DDVDkkYTf1QSpwB-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="1240" as="sourcePoint" />
+            <mxPoint x="150" y="1610" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-51" target="fa7i-DDVDkkYTf1QSpwB-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-51" value="是否存在过&lt;br&gt;相同合同主体" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1110" width="100" height="100" as="geometry" />
+          <mxGeometry x="100" y="1480" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-54" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1230" width="40" height="40" as="geometry" />
+          <mxGeometry x="150" y="1600" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-56" value="走标品回写逻辑&lt;br style=&quot;font-size: 17px;&quot;&gt;新增试用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="736" y="1129" width="125" height="60" as="geometry" />
+          <mxGeometry x="736" y="1499" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-58" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1120" width="40" height="40" as="geometry" />
+          <mxGeometry x="230" y="1490" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-62" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;走标品回写逻辑&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;新增试用&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="736" y="1639" width="130" height="60" as="geometry" />
+          <mxGeometry x="413" y="2010" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-64" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1630" width="40" height="40" as="geometry" />
+          <mxGeometry x="230" y="2000" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-66" target="fa7i-DDVDkkYTf1QSpwB-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-66" value="查询员工是否存在&lt;br&gt;相同合同主体（变更后）下合同" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry y="980" width="300" height="60" as="geometry" />
+          <mxGeometry y="1350" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-70" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;存在试用时有两种场景：&lt;br&gt;1、合同主体A--B--A，此时需要新增试用&lt;br&gt;2、合同主体A------A，此时需要更新试用&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1730" width="430" height="160" as="geometry" />
+          <mxGeometry x="210" y="2100" width="430" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-71" target="fa7i-DDVDkkYTf1QSpwB-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-71" value="判断变更前后合同主体是否发生了变化" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#eeeeee;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1940" width="220" height="80" as="geometry" />
+          <mxGeometry x="40" y="2310" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-73" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1770" width="40" height="40" as="geometry" />
+          <mxGeometry x="160" y="2140" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="1240" as="sourcePoint" />
-            <mxPoint x="200" y="1270" as="targetPoint" />
+            <mxPoint x="710" y="1940" as="sourcePoint" />
+            <mxPoint x="210" y="1850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-75" value="提示只需要走到这里就可以了，存在过就提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="670" y="1250" width="360" height="30" as="geometry" />
+          <mxGeometry x="630" y="1890" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-76" target="fa7i-DDVDkkYTf1QSpwB-80">
           <mxGeometry relative="1" as="geometry" />
@@ -152,30 +148,36 @@
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-76" target="fa7i-DDVDkkYTf1QSpwB-86">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="2320" />
+              <mxPoint x="150" y="2690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-76" value="变更前后合同主体是否不同" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="2100" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="2470" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-80" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;客开逻辑&lt;br style=&quot;font-size: 19px;&quot;&gt;更新上一条试用&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="2109" width="230" height="60" as="geometry" />
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;走标品回写逻辑&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;更新试用&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2480" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-83" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230" y="2090" width="40" height="40" as="geometry" />
+          <mxGeometry x="230" y="2460" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-86" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;客开逻辑&lt;br style=&quot;font-size: 19px;&quot;&gt;新增试用且结束上一条&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="533.5" y="2289" width="235" height="60" as="geometry" />
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-86" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;客开逻辑（监听合同变更事件）&lt;br style=&quot;font-size: 19px;&quot;&gt;新增试用且结束上一条&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="533.5" y="2659" width="336.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-89" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2250" width="40" height="40" as="geometry" />
+          <mxGeometry x="160" y="2620" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-90" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;这里更新或者结束上一条&lt;br style=&quot;font-size: 21px;&quot;&gt;怎么知道上一条是哪个&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=21;flipV=0;direction=east;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="790" y="2109" width="380" height="149" as="geometry" />
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-90" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;这里更新或者结束上一条，怎么知道上一条是哪个？&lt;br&gt;1、使用openApi传入一条新增+更新上一条结束的数据&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=21;flipV=0;direction=east;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" y="2460" width="680" height="169" as="geometry" />
         </mxCell>
-        <mxCell id="fa7i-DDVDkkYTf1QSpwB-91" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;合同子集和试用子集的一对一关系是什么&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=19;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1390" width="430" height="130" as="geometry" />
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-91" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;合同子集和试用子集的一对一关系是什么？&lt;br&gt;1、根据合同主体查询对应的合同数据&lt;br&gt;2、根据合同数据中的任职编码和时间查询对应的试用数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#ffff88;strokeColor=#36393d;fontSize=19;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1690" width="710" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-97" value="合同变更&lt;br&gt;终审事件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="120" y="770" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-98" value="监听事件处理特殊逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="913" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
