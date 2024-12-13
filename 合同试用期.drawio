@@ -179,6 +179,80 @@
         <mxCell id="fa7i-DDVDkkYTf1QSpwB-98" value="监听事件处理特殊逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="430" y="913" width="210" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-99" value="合同A主体：2024-01-01&amp;nbsp; ~~&amp;nbsp; 2024-03-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="2900" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-100" value="合同B主体：2024-06-01&amp;nbsp; ~~&amp;nbsp; 2024-09-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="3010" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-101" value="++&amp;nbsp; 合同A主体：2024-11-01&amp;nbsp; ~~&amp;nbsp; 2024-12-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="3120" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=0;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-102" target="fa7i-DDVDkkYTf1QSpwB-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-102" value="试用1：2024-01-01&amp;nbsp; ~~&amp;nbsp; 2024-02-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="645" y="2900" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-104" value="++ 试用2：2024-11-01&amp;nbsp; ~~&amp;nbsp; 2024-12-01" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="645" y="3120" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-105" value="合同A主体：2024-01-01&amp;nbsp; ~~&amp;nbsp; 2024-03-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="3340" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-106" value="合同B主体：2024-06-01&amp;nbsp; ~~&amp;nbsp; 2024-09-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="3450" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-107" value="++&amp;nbsp; 合同A主体：2024-11-01&amp;nbsp; ~~&amp;nbsp; 2024-12-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="3560" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=0;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-109" target="fa7i-DDVDkkYTf1QSpwB-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-109" value="试用1：2024-01-01&amp;nbsp; ~~&amp;nbsp; 2024-02-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="645" y="3340" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-110" value="++ 试用2：2024-11-01&amp;nbsp; ~~&amp;nbsp; 2024-12-01" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="645" y="3560" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-111" target="fa7i-DDVDkkYTf1QSpwB-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-111" value="试用2：2024-06-01&amp;nbsp; ~~&amp;nbsp; 2024-07-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="640" y="3450" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-121" target="fa7i-DDVDkkYTf1QSpwB-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-140" y="3820" />
+              <mxPoint x="-140" y="4056" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-121" value="合同A主体：2024-01-01&amp;nbsp; ~~&amp;nbsp; 2024-03-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="3790" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-122" value="合同B主体：2024-06-01&amp;nbsp; ~~&amp;nbsp; 2024-09-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="3900" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-123" value="++&amp;nbsp; 合同A主体：2024-02-01&amp;nbsp; ~~&amp;nbsp; 2024-03-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="4010" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=0;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-125" target="fa7i-DDVDkkYTf1QSpwB-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-125" target="fa7i-DDVDkkYTf1QSpwB-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-125" value="试用1：2024-01-01&amp;nbsp; ~~&amp;nbsp; 2024-02-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="645" y="3790" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa7i-DDVDkkYTf1QSpwB-128" target="fa7i-DDVDkkYTf1QSpwB-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa7i-DDVDkkYTf1QSpwB-128" value="试用2：2024-06-01&amp;nbsp; ~~&amp;nbsp; 2024-07-03" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="640" y="3900" width="460" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
